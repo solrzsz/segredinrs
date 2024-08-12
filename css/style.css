@@ -1,0 +1,19 @@
+body {
+
+ background-color: black;
+
+}
+
+p {
+
+text-align: center;
+color: white;
+font-size: 80px;
+
+}
+
+video{
+width: 800px;
+display: block;
+margin: 0 auto;
+}
